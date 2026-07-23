@@ -1,0 +1,31 @@
+Techne —— Agent 项目架构设计哲学 / The Agent Project Architecture Philosophy
+Copyright (c) 2026 wuliRothschild
+
+Techne 体系（含 techne-arche.md、techne-daemon.md、techne-agora.md 及本仓库全部文档与工具）
+由 wuliRothschild 于 2026-07-21 首创并公开发表。
+The Techne system (including techne-arche.md, techne-daemon.md, techne-agora.md, and all
+documents and tools in this repository) was originated and first published by
+wuliRothschild on 2026-07-21.
+
+任何使用、改编、再分发（含商用）均被允许，但必须遵守以下署名条件：
+Any use, adaptation, or redistribution (including commercial use) is permitted,
+provided that the following attribution conditions are met:
+
+1. 署名：明确注明 "Techne by wuliRothschild"，并链接至本仓库（https://github.com/wuliRothschild/Techne）；
+   Attribution: clearly state "Techne by wuliRothschild" and link to this repository (https://github.com/wuliRothschild/Techne);
+2. 标注修改：如对原文有任何改编，须明确标注改动之处（不得暗示衍生版本即原作）；
+   Indicate changes: if you modify the original, mark your changes
+   (you must not imply that a derivative is the original);
+3. 保留声明：在任何衍生分发的副本中保留本 NOTICE 文件。
+   Retention: retain this NOTICE file in copies of any derivative distribution.
+
+许可 / License:
+- 本仓库全部内容（文档与脚本）：
+  Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/  （见 LICENSE）
+
+"Techne" 名称与 techne-* 命名族（brick-arche、brick-daemon、brick-demiurge、brick-agora 等）
+为 wuliRothschild 之标识；上述许可证不授予任何商标使用权。
+The name "Techne" and the techne-* naming family (formerly brick-arche, brick-daemon,
+brick-demiurge, brick-agora; renamed in v2.9) are identifiers of wuliRothschild;
+the licenses above grant no trademark rights.

@@ -1,0 +1,16 @@
+# .gitignore —— techne-demiurge（典则 §5.4-11）
+# 跟踪：README.md HANDOFF.md techne-arche.md techne-daemon.md config/ script/ document/
+# 排除：可由链再生或体量过大的产物、临时件、IDE 元数据
+# 空阶段目录以 .gitkeep 占位保留跟踪（条目 6），故忽略目录内容但豁免 .gitkeep
+data/pipeline/*
+data/unformatted/*
+output/*
+panel/*
+figure/*
+!.gitkeep
+*.tmp
+*.log
+.DS_Store
+.idea/
+.vscode/
+
